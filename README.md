@@ -77,4 +77,3 @@
 <img src="https://raw.githubusercontent.com/apoorvt4/apoorvt4/output/snake.svg" alt="Snake animation" />
 
 ###
-
